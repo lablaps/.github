@@ -4,14 +4,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@LAPS-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@LAPS)](https://medium.com/@LAPS)
 [![Website Badge](https://img.shields.io/badge/-lapsdev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lablaps.vercel.app/)](https://lablaps.vercel.app/)
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lablaps&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Fan of multiple languages, but GitHub thinks it's PHP :\ </small>
-  <br />
-  <br />
-</div>
-
 <h3>Technologies We Work With</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
