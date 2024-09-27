@@ -1,4 +1,4 @@
-**# Hi, we are LAPS 👋
+# Hi, we are LAPS 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LAPS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/laborat%C3%B3rio-de-aquisi%C3%A7%C3%A3o-e-processamento-de-sinais/)](https://www.linkedin.com/company/laborat%C3%B3rio-de-aquisi%C3%A7%C3%A3o-e-processamento-de-sinais/)
 [![Medium Badge](https://img.shields.io/badge/-@LAPS-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@LAPS)](https://medium.com/@LAPS)
@@ -35,4 +35,4 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 </p>
-**
+
